@@ -11,7 +11,7 @@ This is the account overview page:
 |
 The current User overview page:
 
-.. image:: https://raw.githubusercontent.com/BelhsanHmida/screenshots/main/user-overview1.png
+.. image:: https://raw.githubusercontent.com/BelhsanHmida/Playground/main/Screenshots/user-overview1.png
     :align: center
 ..    :scale: 10%
 
@@ -19,6 +19,6 @@ The current User overview page:
 |
 The account audit log page:
 
-.. image:: https://raw.githubusercontent.com/BelhsanHmida/screenshots/main/Capture.PNG
+.. image:: https://raw.githubusercontent.com/BelhsanHmida/Playground/main/Screenshots/Capture.PNG
     :align: center
 ..    :scale: 40%
