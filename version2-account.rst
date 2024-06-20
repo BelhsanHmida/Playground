@@ -9,7 +9,7 @@ This is the account overview page:
 
 |
 |
-The current User overview page:
+This is the current User overview page:
 
 .. image:: https://raw.githubusercontent.com/BelhsanHmida/Playground/main/Screenshots/Capture4.PNG
     :align: center
@@ -17,7 +17,7 @@ The current User overview page:
 
 |
 |
-The account audit log page:
+This is the account audit log page:
 
 .. image:: https://raw.githubusercontent.com/BelhsanHmida/Playground/main/Screenshots/Capture01.PNG
     :align: center
