@@ -13,7 +13,7 @@ The current User overview page:
 
 .. image:: https://raw.githubusercontent.com/BelhsanHmida/screenshots/main/user-overview1.png
     :align: center
-..    :scale: 40%
+..    :scale: 10%
 
 |
 |
