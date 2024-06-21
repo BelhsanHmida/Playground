@@ -31,7 +31,7 @@ For each asset, you can also visit a status page to see if your data connectivit
 
 This is how the audit log looks for the history of actions taken on an asset:
 
-.. image:: https://raw.githubusercontent.com/BelhsanHmida/Playground/main/Screenshots/audit-log03.PNG
+.. image:: https://raw.githubusercontent.com/FlexMeasures/screenshots/main/screenshot-auditlog.PNG
     :align: center
 ..    :scale: 40%
 
