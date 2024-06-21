@@ -22,7 +22,7 @@ This includes the possibility to specify which sensors the asset page should sho
 
 For each asset, you can also visit a status page to see if your data connectivity and recent jobs are okay. This is how data connectivity status looks like on the building asset from our tutorial:
 
-.. image:: https://raw.githubusercontent.com/FlexMeasures/screenshots/main/tut/toy-schedule/screenshot_building_status.png
+.. image:: https://github.com/FlexMeasures/screenshots/raw/main/tut/toy-schedule/screenshot_building_status.png
     :align: center
 ..    :scale: 40%
 
@@ -31,7 +31,7 @@ For each asset, you can also visit a status page to see if your data connectivit
 
 This is how the audit log looks for the history of actions taken on an asset:
 
-.. image:: https://raw.githubusercontent.com/FlexMeasures/screenshots/main/screenshot-auditlog.PNG
+.. image:: https://github.com/FlexMeasures/screenshots/raw/main/screenshot-auditlog.PNG
     :align: center
 ..    :scale: 40%
 
